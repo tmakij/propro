@@ -1,1 +1,1 @@
-# propro
+# Project in Probabilistic Models
